@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FahimKhanDev
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Blazor Wasm & MAUI
-- 💞️ I’ve worked in .NET core MVC, Ef core, MSSQL Server.
+- 👀 Master's student in Computer Science and freelance front-end engineer. Passionate about exploring new tech, AI, and machine learning while building seamless use.
+.
 
 <!---
 FahimKhanDev/FahimKhanDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
