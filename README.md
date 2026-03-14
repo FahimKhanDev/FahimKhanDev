@@ -1,9 +1,9 @@
 # Hi, I'm Faheem Khan
 
 **Full-stack .NET engineer shifting into ML & Data Engineering.**  
-3 years freelancing on SaaS products with Blazor. Now building data pipelines, fine-tuning transformer models, and automating AI workflows — backed by an MSc in CS with specialization in ML & Data Science.
+3 years freelancing on SaaS products with Blazor. Now building data pipelines, fine-tuning transformer models, and automating AI workflows — backed by an MS in CS with specialization in ML & Data Science.
 
-📍 Lahore, Pakistan &nbsp;|&nbsp; 🎓 MSc CS @ LUMS &nbsp;|&nbsp; 💼 Available for AI/ML & Data Engineering contracts
+📍 Lahore, Pakistan &nbsp;|&nbsp; 🎓 MS CS @ LUMS &nbsp;|&nbsp; 💼 Available for AI/ML & Data Engineering contracts
 
 ---
 
