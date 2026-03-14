@@ -12,7 +12,7 @@
 - Fine-tuning transformer models (PEGASUS, BART, T5) for NLP tasks
 - Building end-to-end data pipelines with Prefect, HuggingFace Datasets, and FastAPI
 - Automated AI engineering contracts on Upwork
-- MSc coursework in machine learning and data science
+- MS coursework in machine learning and data science
 
 ---
 
@@ -51,7 +51,7 @@ End-to-end NLP pipeline that ingests, cleans, and processes 50k+ Wikipedia artic
 
 I spent 3 years as a freelance full-stack developer, building SaaS products end-to-end with Blazor, EF Core, and SQL Server for clients on international contracts. That background in shipping real, production systems is now the foundation I'm bringing into ML and data engineering — I don't just train models, I build the plumbing around them.
 
-Currently pursuing an MSc in CS (ML & Data Science specialization) at LUMS alongside active project work and Upwork contracts in AI automation.
+Currently pursuing an MS in CS (ML & Data Science specialization) at LUMS alongside active project work and Upwork contracts in AI automation.
 
 ---
 
