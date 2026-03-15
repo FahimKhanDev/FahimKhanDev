@@ -30,7 +30,7 @@
 
 ## Featured Projects
 
-### [NLP Summarization Pipeline](https://github.com/YOUR_USERNAME/nlp-summarization-pipeline)
+### [NLP Summarization Pipeline](https://github.com/FahimKhanDev/nlp-summarization-pipeline)
 End-to-end NLP pipeline that ingests, cleans, and processes 50k+ Wikipedia articles via streaming — no full download required. Fine-tunes PEGASUS (primary), BART, and T5 for abstractive summarization. Served via a FastAPI inference API with Docker Compose orchestration.
 
 **Why PEGASUS?** Its Gap Sentence Generation pretraining directly mirrors the summarization task, giving it a structural head start over general-purpose models like BART.
